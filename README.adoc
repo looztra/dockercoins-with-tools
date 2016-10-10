@@ -1,0 +1,13 @@
+= Dockercoins with tools
+Christophe Furmaniak <christophe.furmaniak@gmail.com>
+:toc:
+:icons: font
+:quick-uri: http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+
+== What?
+
+The `Dockercoins` multi-services app with additional tools to debug strange behaviours$
+
+== Original project
+
+https://github.com/docker-training/orchestration-workshop
